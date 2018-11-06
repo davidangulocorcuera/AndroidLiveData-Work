@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">LiveDataExample</string>
     <string name="str_switch1">Trabajo en casa</string>
+    <string name="str_secondSwitch">voy a aprobar?</string>
 </resources>
